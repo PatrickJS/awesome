@@ -59,6 +59,7 @@
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
+- [Inspiration](https://github.com/NoahBuscher/Inspire)
 
 
 ## Computer science
@@ -92,6 +93,7 @@
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Game Development](https://github.com/ellisonleao/magictools)
+- [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
@@ -117,11 +119,13 @@
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
+- [Remote jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
+- [Fonts](https://github.com/brabadu/awesome-fonts)
 
 
 ## License
