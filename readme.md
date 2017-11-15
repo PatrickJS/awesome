@@ -440,7 +440,7 @@
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
-
+- [Tipe](https://github.com/tipeio/awesome-tipe) - Developer-first Meta CMS
 
 ## Hardware
 
